@@ -20,7 +20,7 @@ function App() {
   return (
     <FeedBackProvider>
     <Router>
-      <Header text="FeedBack Application" />
+      <Header text="FeedBack Application V2" />
 
       <div className="container">
         <Routes>
